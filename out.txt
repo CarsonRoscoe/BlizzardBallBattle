@@ -1,0 +1,805 @@
+1280
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+Couldn't open /etc/timidity/freepats.cfg
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+Couldn't open /etc/timidity/freepats.cfg
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: -2 Y: 22X: -1.98 2Y: 1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+Couldn't open /etc/timidity/freepats.cfg
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98
+X: 2 Y: -22X: 1.98 2Y: -1.98
+X: 0.261468 Y: -0.2183362X: 0.258854 2Y: -0.216153
+X: -2 Y: -22X: -1.98 2Y: -1.98
+X: 2 Y: 22X: 1.98 2Y: 1.98

@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{0D909B57-AFD6-44B4-B192-3F9AD4D73850}</ProjectGuid>
+    <RootNamespace>BlizzardBallBattle</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <IncludePath>$(SolutionDir)WinLibraries\SDL2_mixer-devel-2.0.1-VC\SDL2_mixer-2.0.1\include;$(SolutionDir)WinLibraries\SDL2_net-2.0.1\include;$(SolutionDir)WinLibraries\SDL2_image-2.0.1\include;$(SolutionDir)WinLibraries\SDL2-2.0.5\include;$(SolutionDir)WinLibraries\freeglut\include;$(SolutionDir)WinLibraries\glew-2.1.0\include;$(IncludePath)</IncludePath>
+    <LibraryPath>$(SolutionDir)WinLibraries\SDL2_mixer-devel-2.0.1-VC\SDL2_mixer-2.0.1\lib\x86;$(SolutionDir)WinLibraries\SDL2_net-2.0.1\lib\x86;$(SolutionDir)WinLibraries\SDL2_image-2.0.1\lib\x86;$(SolutionDir)WinLibraries\glew-2.1.0\lib\Release\Win32;$(SolutionDir)WinLibraries\freeglut\lib;$(SolutionDir)WinLibraries\SDL2-2.0.5\lib\x86;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <IncludePath>$(SolutionDir)WinLibraries\glew-2.1.0\include;$(SolutionDir)WinLibraries\freeglut\include;$(SolutionDir)WinLibraries\SDL2-2.0.5\include;$(SolutionDir)WinLibraries\SDL2_image-2.0.1\include;$(IncludePath)</IncludePath>
+    <LibraryPath>$(SolutionDir)WinLibraries\freeglut\lib;$(SolutionDir)WinLibraries\glew-2.1.0\lib\Release\Win32;$(SolutionDir)WinLibraries\SDL2-2.0.5\lib\x86;$(SolutionDir)WinLibraries\SDL2_image-2.0.1\lib\x86;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <AdditionalIncludeDirectories>$(SolutionDir)BlizzardBallBattle;$(SolutionDir)BlizzardBallBattle\Game\Managers;$(SolutionDir)BlizzardBallBattle\Game\GameObjects;$(SolutionDir)BlizzardBallBattle\Game\ExternalClasses;$(SolutionDir)BlizzardBallBattle\Game\Scenes;$(SolutionDir)BlizzardBallBattle\Game\Scenes\MenuScenes;$(SolutionDir)BlizzardBallBattle\Game\Scenes\GameScenes;$(SolutionDir)BlizzardBallBattle\Game\Components;$(SolutionDir)BlizzardBallBattle\Game\GameObjects\Projectile;$(SolutionDir)BlizzardBallBattle\Game;$(SolutionDir)BlizzardBallBattle\Engine\Component\Collision;$(SolutionDir)BlizzardBallBattle\Engine\Component\Networking;$(SolutionDir)BlizzardBallBattle\Engine\Component\Transform;$(SolutionDir)BlizzardBallBattle\Engine\Component\Physics;$(SolutionDir)BlizzardBallBattle\Engine\Component\Render;$(SolutionDir)BlizzardBallBattle\Engine\External\Render;$(SolutionDir)BlizzardBallBattle\Engine\External\Math;$(SolutionDir)BlizzardBallBattle\Engine\External;$(SolutionDir)BlizzardBallBattle\Engine\Component;$(SolutionDir)BlizzardBallBattle\Engine\GameObjects;$(SolutionDir)BlizzardBallBattle\Engine\Manager;$(SolutionDir)BlizzardBallBattle\Engine;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>SDL2.lib;SDL2main.lib;glew32.lib;glew32s.lib;freeglut.lib;SDL2_image.lib;SDL2_net.lib;SDL2_mixer.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <EntryPointSymbol>
+      </EntryPointSymbol>
+      <SubSystem>Windows</SubSystem>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>SDL2.lib;SDL2main.lib;glew32.lib;glew32s.lib;freeglut.lib;SDL_image.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <SubSystem>Windows</SubSystem>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+    <Link>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+    <Link>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="AILearning.cpp" />
+    <ClCompile Include="AISelectionMenuScene.cpp" />
+    <ClCompile Include="Engine\Component\Collision\Collider.cpp" />
+    <ClCompile Include="Engine\Component\Networking\Receiver.cpp" />
+    <ClCompile Include="Engine\Component\Networking\Sender.cpp" />
+    <ClCompile Include="Engine\External\Render\ContrastShader.cpp" />
+    <ClCompile Include="Engine\External\Render\FrameBufferObject.cpp" />
+    <ClCompile Include="Engine\External\Render\ImageRenderer.cpp" />
+    <ClCompile Include="Engine\External\Render\ISprite.cpp" />
+    <ClCompile Include="Engine\External\Render\PostProcessing.cpp" />
+    <ClCompile Include="Engine\External\Render\Sprite.cpp" />
+    <ClCompile Include="Engine\External\Render\SpriteSheet.cpp" />
+    <ClCompile Include="Engine\External\Render\Tile.cpp" />
+    <ClCompile Include="Engine\GameObjects\Camera.cpp" />
+    <ClCompile Include="Engine\GameObjects\ComplexSprite.cpp" />
+    <ClCompile Include="Engine\GameObjects\DayNightCamera.cpp" />
+    <ClCompile Include="Engine\GameObjects\SimpleSprite.cpp" />
+    <ClCompile Include="Engine\Manager\AudioManager.cpp" />
+    <ClCompile Include="Engine\Manager\NetworkingManager.cpp" />
+    <ClCompile Include="Engine\Manager\PhysicsManager.cpp" />
+    <ClCompile Include="Engine\Manager\SceneManager.cpp" />
+    <ClCompile Include="Engine\Scene.cpp" />
+    <ClCompile Include="Engine\Updateable.cpp" />
+    <ClCompile Include="Game\Components\AI.cpp" />
+    <ClCompile Include="Game\Components\Player.cpp" />
+    <ClCompile Include="Game\ExternalClasses\Example.cpp" />
+    <ClCompile Include="Engine\Component\Render\Renderer.cpp" />
+    <ClCompile Include="Engine\Component\Render\TileRenderer.cpp" />
+    <ClCompile Include="Engine\Manager\InputManager.cpp" />
+    <ClCompile Include="Engine\Manager\MessageManager.cpp" />
+    <ClCompile Include="Game\Game.cpp" />
+    <ClCompile Include="Game\GameObjects\Battler.cpp" />
+    <ClCompile Include="Game\GameObjects\Projectile\Snowball.cpp" />
+    <ClCompile Include="Game\Managers\MatchManager.cpp" />
+    <ClCompile Include="Game\Scenes\GameScenes\GameScene.cpp" />
+    <ClCompile Include="Game\Scenes\GameScene_Alpha_Networked.cpp" />
+    <ClCompile Include="Game\Scenes\MenuScenes\LaunchMenuScene.cpp" />
+    <ClCompile Include="Game\Scenes\MenuScenes\MenuScene_Alpha.cpp" />
+    <ClCompile Include="Game\Scenes\MenuScenes\PostGameMenuScene.cpp" />
+    <ClCompile Include="Game\Scenes\MessagingTestScene.cpp" />
+    <ClCompile Include="Game\Scenes\NetworkingTestScene.cpp" />
+    <ClCompile Include="Engine\Component\Component.cpp" />
+    <ClCompile Include="Engine\Component\GameObject.cpp" />
+    <ClCompile Include="Engine\Component\Physics.cpp" />
+    <ClCompile Include="Engine\Component\Render\SpriteRenderer.cpp" />
+    <ClCompile Include="Engine\Component\Transform.cpp" />
+    <ClCompile Include="Engine\Engine.cpp" />
+    <ClCompile Include="Engine\External\HelperFunctions.cpp" />
+    <ClCompile Include="Engine\External\Math\Vector2.cpp" />
+    <ClCompile Include="Engine\External\Render\Shader.cpp" />
+    <ClCompile Include="Engine\Manager\GameManager.cpp" />
+    <ClCompile Include="Engine\Manager\SpriteRendererManager.cpp" />
+    <ClCompile Include="Game\Components\ComponentTemplate.cpp" />
+    <ClCompile Include="Game\GameObjects\GameObjectTemplate.cpp" />
+    <ClCompile Include="Game\Scenes\PlayerTestScene.cpp" />
+    <ClCompile Include="Game\Scenes\SceneTemplate.cpp" />
+    <ClCompile Include="Game\Scenes\SpriteSheetAnimationTestScene.cpp" />
+    <ClCompile Include="GarbageCollection.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="NeuralNet.cpp" />
+    <ClCompile Include="Neuron.cpp" />
+    <ClCompile Include="TrainingData.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AILearning.h" />
+    <ClInclude Include="AISelectionMenuScene.h" />
+    <ClInclude Include="Engine\Component\Collision\Collider.h" />
+    <ClInclude Include="Engine\Component\Networking\Receiver.h" />
+    <ClInclude Include="Engine\Component\Networking\Sender.h" />
+    <ClInclude Include="Engine\External\Render\ContrastShader.h" />
+    <ClInclude Include="Engine\External\Render\FrameBufferObject.h" />
+    <ClInclude Include="Engine\External\Render\ImageRenderer.h" />
+    <ClInclude Include="Engine\External\Render\ISprite.h" />
+    <ClInclude Include="Engine\External\Render\PostProcessing.h" />
+    <ClInclude Include="Engine\External\Render\Sprite.h" />
+    <ClInclude Include="Engine\External\Render\SpriteSheet.h" />
+    <ClInclude Include="Engine\External\Render\Tile.h" />
+    <ClInclude Include="Engine\External\Render\TileSheetInfo.h" />
+    <ClInclude Include="Engine\External\TransformState.h" />
+    <ClInclude Include="Engine\Component\Render\Renderer.h" />
+    <ClInclude Include="Engine\Component\Render\TileRenderer.h" />
+    <ClInclude Include="Engine\GameObjects\Camera.h" />
+    <ClInclude Include="Engine\GameObjects\ComplexSprite.h" />
+    <ClInclude Include="Engine\GameObjects\DayNightCamera.h" />
+    <ClInclude Include="Engine\GameObjects\SimpleSprite.h" />
+    <ClInclude Include="Engine\Manager\AudioManager.h" />
+    <ClInclude Include="Engine\Manager\MessageManager.h" />
+    <ClInclude Include="Engine\Manager\NetworkingManager.h" />
+    <ClInclude Include="Engine\Manager\PhysicsManager.h" />
+    <ClInclude Include="Engine\Manager\SceneManager.h" />
+    <ClInclude Include="Engine\Scene.h" />
+    <ClInclude Include="Engine\Updateable.h" />
+    <ClInclude Include="Game\Components\AI.h" />
+    <ClInclude Include="Game\Components\Player.h" />
+    <ClInclude Include="Game\ExternalClasses\Example.h" />
+    <ClInclude Include="Game\ExternalClasses\UserDefinedRenderLayers.h" />
+    <ClInclude Include="Game\Game.h" />
+    <ClInclude Include="Game\GameObjects\Battler.h" />
+    <ClInclude Include="Game\GameObjects\Projectile\Snowball.h" />
+    <ClInclude Include="Game\Managers\MatchManager.h" />
+    <ClInclude Include="Game\Scenes\GameScenes\GameScene.h" />
+    <ClInclude Include="Game\Scenes\GameScene_Alpha_Networked.h" />
+    <ClInclude Include="Game\Scenes\MenuScenes\LaunchMenuScene.h" />
+    <ClInclude Include="Game\Scenes\MenuScenes\MenuScene_Alpha.h" />
+    <ClInclude Include="Game\Scenes\MenuScenes\PostGameMenuScene.h" />
+    <ClInclude Include="Game\Scenes\MessagingTestScene.h" />
+    <ClInclude Include="Game\Scenes\NetworkingTestScene.h" />
+    <ClInclude Include="Engine\Component\Component.h" />
+    <ClInclude Include="Engine\Component\GameObject.h" />
+    <ClInclude Include="Engine\Component\Physics.h" />
+    <ClInclude Include="Engine\Component\Render\SpriteRenderer.h" />
+    <ClInclude Include="Engine\Component\Transform.h" />
+    <ClInclude Include="Engine\Engine.h" />
+    <ClInclude Include="Engine\External\GLHeaders.h" />
+    <ClInclude Include="Engine\External\HelperFunctions.h" />
+    <ClInclude Include="Engine\External\Math\Vector2.h" />
+    <ClInclude Include="Engine\External\Render\FBORenderTexture.h" />
+    <ClInclude Include="Engine\External\Render\Shader.h" />
+    <ClInclude Include="Engine\External\Render\ShaderFactory.h" />
+    <ClInclude Include="Engine\External\SharedConstants.h" />
+    <ClInclude Include="Engine\Manager\GameManager.h" />
+    <ClInclude Include="Engine\Manager\InputManager.h" />
+    <ClInclude Include="Engine\Manager\SpriteRendererManager.h" />
+    <ClInclude Include="Game\Components\ComponentTemplate.h" />
+    <ClInclude Include="Game\GameObjects\GameObjectTemplate.h" />
+    <ClInclude Include="Game\Scenes\PlayerTestScene.h" />
+    <ClInclude Include="Game\Scenes\Scenes.h" />
+    <ClInclude Include="Game\Scenes\SceneTemplate.h" />
+    <ClInclude Include="Game\Scenes\SpriteSheetAnimationTestScene.h" />
+    <ClInclude Include="GarbageCollection.h" />
+    <ClInclude Include="NeuralNet.h" />
+    <ClInclude Include="Neuron.h" />
+    <ClInclude Include="TrainingData.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Assets\Character.bmp" />
+    <Image Include="Assets\Character.png">
+      <DeploymentContent>true</DeploymentContent>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="fragment_shader.fs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Engine\External\Render\contrastFragment.txt" />
+    <Text Include="Engine\External\Render\contrastVertex.txt" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

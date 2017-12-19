@@ -1,0 +1,32 @@
+transform
+    point
+    rotation
+
+collisionBody
+    size
+    type //rectangle or sphere
+    isInBounds()
+
+physics
+    vector //velocity and direction
+    addVector()
+    update() //move
+
+spriteRenderer
+    render()
+
+InputManager
+    SubscribeKey
+        a..zA..Z0..9...
+    ListenForKey
+
+MouseManager
+    SubscribeMouse
+        mousemove
+        mouseclick
+        mouserightclick
+    ListenForMouse
+
+GameManager
+    SubscribeEvent
+    ListenForEvent
